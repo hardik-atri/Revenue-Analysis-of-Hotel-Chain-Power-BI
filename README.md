@@ -7,9 +7,9 @@
 -   * Avg. Rating
 
 
--Then in Level 2 analysis : We analyzed Revenue , Occupancy % and RevPAR by City.
+- Then in Level 2 analysis : We analyzed Revenue , Occupancy % and RevPAR by City.
 
--Then in Level 3 analysis : We analyzed Booking by Platform and Occupancy % between Weekdays and Weekends ( Friday and Saturday are considered as weekends )
+- Then in Level 3 analysis : We analyzed Booking by Platform and Occupancy % between Weekdays and Weekends ( Friday and Saturday are considered as weekends )
 
 - We analyzed weekly revenue trend and also plotted a table with Hotel type and their different metrics.
 <!---
